@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/redux-shopping-cart/static/css/main.8250aaac.css",
+    "main.js": "/redux-shopping-cart/static/js/main.b01dbdad.js",
+    "static/js/787.15846d51.chunk.js": "/redux-shopping-cart/static/js/787.15846d51.chunk.js",
+    "index.html": "/redux-shopping-cart/index.html",
+    "main.8250aaac.css.map": "/redux-shopping-cart/static/css/main.8250aaac.css.map",
+    "main.b01dbdad.js.map": "/redux-shopping-cart/static/js/main.b01dbdad.js.map",
+    "787.15846d51.chunk.js.map": "/redux-shopping-cart/static/js/787.15846d51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8250aaac.css",
+    "static/js/main.b01dbdad.js"
+  ]
+}
